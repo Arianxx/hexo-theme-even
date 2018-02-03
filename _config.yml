@@ -20,7 +20,6 @@ menu:
   Home: /
   Archives: /archives/
   Tags: /tags
-  Categories: /categories
   About: /about
 
 # ===========================================
@@ -56,7 +55,7 @@ social:
   google: 
   github: https://github.com/Arianxx
   weibo:
-  zhihu: https://www.zhihu.com/people/02089901712571eaddf28652ff908cd8?utm_source=com.meizu.notepaper&utm_medium=social
+  zhihu: 
   douban: https://www.douban.com/people/131732783/
   pocket:
   tumblr:
