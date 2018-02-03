@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -19,9 +19,9 @@ rss: default
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -36,7 +36,7 @@ theme:
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
+  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
 
 reward:
   enable: false
@@ -48,16 +48,16 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: ysnyyhs@163.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
-  google:
-  github:
+  google: 
+  github: https://github.com/Arianxx
   weibo:
-  zhihu:
-  douban:
+  zhihu: https://www.zhihu.com/people/02089901712571eaddf28652ff908cd8?utm_source=com.meizu.notepaper&utm_medium=social
+  douban: https://www.douban.com/people/131732783/
   pocket:
   tumblr:
   instagram:
@@ -72,17 +72,17 @@ leancloud:
   app_key:
 
 # Baidu Analytics
-baidu_analytics:
+baidu_analytics: 7da15ed69b10673f5e71fb736eca6373
 # Baidu Verification
 baidu_verification:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-113448663-1
 # Google Verification
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: arianx
 
 #Changyan
 changyan:
