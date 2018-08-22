@@ -75,11 +75,6 @@ baidu_analytics: 7da15ed69b10673f5e71fb736eca6373
 # Baidu Verification
 baidu_verification:
 
-# Google Analytics
-google_analytics: UA-113448663-1
-# Google Verification
-google_verification:
-
 # Disqus
 disqus_shortname: arianx
 

@@ -20,3 +20,8 @@
     </ul>
   {% endif %}
 </nav>
+
+<div class="waifu">
+    <div class="waifu-tips"></div>
+    <canvas id="live2d" width="240" height="220" class="live2d"></canvas>
+</div>
