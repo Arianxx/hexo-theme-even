@@ -103,6 +103,10 @@
         {
         	"selector": "#Contact ~ p:contains('邮箱')",
         	"text": ["听说主人给邮箱施加了一种叫做base64的魔法呢"]
+        },
+        {
+        	"selector": ".icon-heart",
+        	"text": ["献给你的爱心哦♥"]
         }
     ],
     "click": [
