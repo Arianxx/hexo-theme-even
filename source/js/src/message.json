@@ -1,4 +1,4 @@
-{
+﻿{
     "mouseover": [
     	{
     		"selector": "a[href^='http']:not([href^='arianx.me'])",
@@ -18,7 +18,7 @@
         },
         {
         	"selector": ".post-time",
-        	"text": ["这是一篇 <span style=\"color:blue;\">{text}</span> 发布的文章呢，要注意文章的失效哦"]
+        	"text": ["这是一篇 <span style=\"color:blue;\">{text}</span> 发布的文章呢，要注意文章的时效哦"]
         },
     	{
     		"selector": ".read-more a[class^='read-more-link']",
