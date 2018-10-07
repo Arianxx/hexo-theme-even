@@ -12,6 +12,11 @@
 
     	<a href="https://music.163.com/#/user/home?id=101778288" class="myiconfont icon-163music" title="yun music" target="_blank">
     	</a>
+
+      <a href="https://space.bilibili.com/3101019/#/" class="myiconfont icon-bilibili"
+      title="bilibili" target="_blank">
+      </a>
+
     
     {% if config.feed and config.feed.path and theme.rss === 'default' %}
       <a href="{{ url_for(config.feed.path) }}" class="iconfont icon-rss" title="rss"></a>
