@@ -18,19 +18,26 @@ rss: /atom.xml
 # ===========================================
 menu:
   Home: /
-  Archives: /archives/
-  Tags: /tags
-  About: /about
+  # Archives: /archives/
+  # Tags: /tags
+  # Categories: /categories
+  # About: /about
 
 # ===========================================
 # Theme Settings
 # ===========================================
-# theme styling
-# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-theme:
-  color: Default
-  toc: false
-  fancybox: false
+# color: default | mint green | cobalt blue | hot pink | dark violet
+color: default
+
+# default page mode: default | archives
+mode: default
+
+toc: true
+
+# jQuery fancybox
+fancybox: true
+
+pjax: true
 
 copyright:
   enable: true
@@ -89,4 +96,4 @@ livere_datauid:
 # ===========================================
 # Version
 # ===========================================
-version: 2.6.0
+version: 2.10.2
