@@ -18,16 +18,15 @@ rss: /atom.xml
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Archives: /archives/
+  Tags: /tags
+  About: /about
 
 # ===========================================
 # Theme Settings
 # ===========================================
 # color: default | mint green | cobalt blue | hot pink | dark violet
-color: default
+color: dark violet
 
 # default page mode: default | archives
 mode: default
